@@ -97,6 +97,6 @@ src/
 
 ### 👨‍💻 Auteur
 
-> Joseph Essey – (https://github.com/ton-github)
+> Joseph Essey – (https://github.com/JosephESSEY)
 
 ---
