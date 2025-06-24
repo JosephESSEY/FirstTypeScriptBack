@@ -14,7 +14,7 @@ app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 app.use("/api/auth", authRoutes);
 
 app.get("/", (req, res) => {
-  res.send("API running 🚀");
+  res.send("API running");
 });
 
 export default app;

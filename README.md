@@ -1,10 +1,10 @@
-## 🛡️ Auth API - Node.js, Express, TypeScript, PostgreSQL
+## Auth API - Node.js, Express, TypeScript, PostgreSQL
 
 Un starter backend sécurisé et propre en TypeScript, intégrant une architecture hybride (POO + FP), l'authentification JWT, une base PostgreSQL et Swagger pour la documentation.
 
 ---
 
-### 📦 Stack technique
+### Stack technique
 
 * **Node.js** + **Express.js**
 * **TypeScript**
@@ -17,22 +17,22 @@ Un starter backend sécurisé et propre en TypeScript, intégrant une architectu
 
 ---
 
-### 🚀 Démarrage rapide
+### Démarrage rapide
 
-#### 📁 Cloner le repo
+#### Cloner le repo
 
 ```bash
 git clone https://github.com/ton-compte/auth-api-ts.git
 cd auth-api-ts
 ```
 
-#### 📦 Installer les dépendances
+#### Installer les dépendances
 
 ```bash
 npm install
 ```
 
-#### ⚙️ Configuration de l’environnement
+#### Configuration de l’environnement
 
 Crée un fichier `.env` à la racine et ajoute :
 
@@ -46,7 +46,7 @@ JWT_SECRET=supersecret
 
 ---
 
-### 🧪 Lancer en mode développement
+### Lancer en mode développement
 
 ```bash
 npm run dev
@@ -56,7 +56,7 @@ npm run dev
 
 ---
 
-### 📖 Documentation Swagger
+### Documentation Swagger
 
 Une fois disponible, la doc Swagger sera accessible sur :
 
@@ -66,7 +66,7 @@ http://localhost:5000/api-docs
 
 ---
 
-### 🏗️ Structure du projet
+### Structure du projet
 
 ```
 src/
@@ -85,17 +85,17 @@ src/
 
 ---
 
-### 🛠️ À venir
+### À venir
 
-* 🔐 Refresh token
-* ✅ Tests unitaires avec Jest
-* 🐳 Dockerisation
-* 📄 Scripts de migration
-* 🚀 Déploiement CI/CD (GitHub Actions)
+* Refresh token
+* Tests unitaires avec Jest
+* Dockerisation
+* Scripts de migration
+* Déploiement CI/CD (GitHub Actions)
 
 ---
 
-### 👨‍💻 Auteur
+### Auteur
 
 > Joseph Essey – (https://github.com/JosephESSEY)
 
